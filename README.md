@@ -63,7 +63,7 @@ This platform empowers small businesses to find affordable influencers quickly a
 
 ---
 
-## Additional Links (Optional)
+## Additional Links
 
 Presentation: 
 Live Demo:

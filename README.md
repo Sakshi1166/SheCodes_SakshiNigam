@@ -43,7 +43,6 @@ CollabHub is a smart web platform that helps brands discover verified micro-infl
 ### Key Features
 
 * Smart micro-influencer search & filtering
-* Category-based discovery (fashion, tech, fitness, etc.)
 * Influencer profile cards with followers & engagement
 * Save & shortlist influencers
 * Brand login dashboard
@@ -52,9 +51,9 @@ CollabHub is a smart web platform that helps brands discover verified micro-infl
 ### Tech Stack
 
 * React.js
-* Supabase Database
+* Firebase Database
 * Tailwind CSS
-* REST API / Dataset (Micro Influencers)
+* Dataset (Micro Influencers)
 
 ### Impact
 
@@ -64,5 +63,6 @@ This platform empowers small businesses to find affordable influencers quickly a
 
 ## Additional Links
  
-Live Demo:
+Live Demo: https://she-codes-sakshi-nigam.vercel.app/
 GitHub Repo: https://github.com/Sakshi1166/SheCodes_SakshiNigam
+PPT Link : https://1drv.ms/p/c/77a0dec5cc31e66c/IQDzTccx37nWTrEqvSqE9h_QASPH1Z7JxojAWALpyD6oRKM?e=aFWHjL

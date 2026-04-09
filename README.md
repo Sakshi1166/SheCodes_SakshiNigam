@@ -7,7 +7,7 @@ SheCodes
 
 ## Project Name
 
-BrandBuzz – Smart Micro-Influencer Discovery Platform
+ CollabHub – Smart Micro-Influencer Discovery Platform
 
 ## Selected Track
 
@@ -15,18 +15,18 @@ Web Development
 
 ## Selected Problem Statement (PS)
 
-Micro-influencer  brand collaboration platform
+Micro-influencer brand collaboration platform
 
 ## Team Leader
 
 Name: Sakshi Nigam
-Phone:
+Phone: 7268908199
 
 ## Team Members & Roles
 
-* Sakshi Nigam — Frontend Developer (React UI & UX)
-* Rumaisha Qadeer — Backend Developer (Firebase & APIs)
-* Jayati Mahato — Data & Integration (Influencer dataset + filtering logic)
+* Sakshi Nigam — Frontend Developer (React)
+* Rumaisha Qadeer — UI and UX designing
+* Jayati Mahato — Backend Developer (Influencer dataset + filtering logic)
 
 ---
 
@@ -38,7 +38,7 @@ Brands struggle to find relevant micro-influencers within their niche, budget, a
 
 ### Solution
 
-BrandBuzz is a smart web platform that helps brands discover verified micro-influencers using category, followers, engagement rate, and platform filters. The system provides an easy way to explore influencers, view profiles, and connect for collaborations.
+CollabHub is a smart web platform that helps brands discover verified micro-influencers using category, followers, engagement rate, and platform filters. The system provides an easy way to explore influencers, view profiles, and connect for collaborations.
 
 ### Key Features
 
@@ -52,8 +52,7 @@ BrandBuzz is a smart web platform that helps brands discover verified micro-infl
 ### Tech Stack
 
 * React.js
-* Firebase Authentication
-* Firebase Firestore Database
+* Supabase Database
 * Tailwind CSS
 * REST API / Dataset (Micro Influencers)
 
@@ -64,7 +63,6 @@ This platform empowers small businesses to find affordable influencers quickly a
 ---
 
 ## Additional Links
-
-Presentation: 
+ 
 Live Demo:
-GitHub Repo: 
+GitHub Repo: https://github.com/Sakshi1166/SheCodes_SakshiNigam
